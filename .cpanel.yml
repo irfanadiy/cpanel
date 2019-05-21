@@ -1,5 +1,5 @@
 ---
 deployment:
- tasks:
-   - export DEPLOYPATH=/home/irfanadi/cp.irfanadi.id/
-   - /bin/cp index.php $DEPLOYPATH
+  tasks:
+    - export DEPLOYPATH=/home/irfanadi/cp.irfanadi.id/
+    - /bin/cp index.php $DEPLOYPATH
